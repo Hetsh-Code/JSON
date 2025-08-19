@@ -1,0 +1,12 @@
+// Boolean: boolean are simple values used in true of false.
+// Like this:
+{
+    "BooleanTrue": true,
+    //         True ⬆️
+    "BooleanFalse": false
+    //         False ⬆️
+}
+
+// Homework:
+//  Create a short database for "answer in true or false" with boolean value.
+//  And publish it into your Repositry.
