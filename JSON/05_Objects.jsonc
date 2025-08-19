@@ -1,0 +1,16 @@
+// Objects: objects are used for multiples value which also has keyword and value.
+// Like this:
+{
+    "Object": {
+        
+        "String": "xxxxx",
+        "Number": 5,
+        "BooleanTrue": true,
+        "BooleanFalse": false
+    }
+    // Object ⬆️
+}
+
+// Homework:
+//  Create a short database for "Book and thier details" with object value.
+//  And publish it into your Repositry.
