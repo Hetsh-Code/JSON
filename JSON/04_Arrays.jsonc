@@ -1,0 +1,15 @@
+// Array: array are used for multiples value.
+// Like this:
+{
+    "Array": [
+        "String",
+        5,
+        true,
+        false
+    ]
+    // Array ⬆️
+}
+
+// Homework:
+//  Create a short database for "Coding Languages name" with array value.
+//  And publish it into your Repositry.
