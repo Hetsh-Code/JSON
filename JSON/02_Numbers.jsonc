@@ -1,0 +1,10 @@
+// Number: number are used for simple numbers
+// Like this:
+{
+    "Number": 92
+    // number ⬆️
+}
+
+// Homework:
+//  Create a short database for "favourite numbers list" with number value.
+//  And publish it into your Repositry.
