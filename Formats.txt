@@ -1,0 +1,3 @@
+JSON with comments: '.jsonc'
+JSON with lines:    '.jsonl'
+JSON:               '.json'
