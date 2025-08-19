@@ -1,0 +1,10 @@
+// String: string are used for simple texts.
+// Like this:
+{
+    "String": "xxxxx"
+    //      text ⬆️
+}
+
+// Homework:
+//  Create a short database for "men names in wedding" with string value.
+//  And publish it into your Repositry.
